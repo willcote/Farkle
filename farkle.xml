@@ -1,0 +1,10 @@
+<players>
+    <human>
+        <name></name>
+        <turns></turns>
+    </human>
+    <cpu>
+        <name></name>
+        <turns></turns>
+    </cpu>
+</players>
